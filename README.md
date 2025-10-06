@@ -1,5 +1,5 @@
-<h1>Aquí podrás encontrar todo el código base de arranque para que puedas seguir el video.</h1>
-<h2>Calculadora de sueldo, desarrollado con HTML - CSS y JavaScript </h2>
+<h1>Aquí podrás encontrar todo el código trabajado en el video.</h1>
+<h2>Calculadora de sueldo, desarrollado con HTML - CSS y JavaScript y migrado a TypeScript con POO </h2>
 <br>
 <p>Te invito a que descargues este código para que puedas seguir paso a paso lo explicado en el video. Vamos a pasar este código a TypeScript</p>
 <h2>Descarga la carpeta, y sigue los siguientes pasos:</h2>
